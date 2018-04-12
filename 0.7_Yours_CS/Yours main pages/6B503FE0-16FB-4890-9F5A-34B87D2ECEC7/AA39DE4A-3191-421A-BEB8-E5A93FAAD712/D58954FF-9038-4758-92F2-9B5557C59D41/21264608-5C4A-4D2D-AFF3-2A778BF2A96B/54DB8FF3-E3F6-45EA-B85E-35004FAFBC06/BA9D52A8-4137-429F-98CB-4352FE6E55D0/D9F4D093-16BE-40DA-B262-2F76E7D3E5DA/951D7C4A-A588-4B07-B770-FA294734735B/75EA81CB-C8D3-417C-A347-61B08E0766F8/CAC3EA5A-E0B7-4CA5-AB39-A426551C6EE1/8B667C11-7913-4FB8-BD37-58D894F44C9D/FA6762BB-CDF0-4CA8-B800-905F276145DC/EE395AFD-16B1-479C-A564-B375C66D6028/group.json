@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "EE395AFD-16B1-479C-A564-B375C66D6028",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 40,
+    "x": 317,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AEEF08D4-6FAE-49AF-B681-BDF755EE53A5"
+    },
+    {
+      "class": "text",
+      "id": "008D4E10-C7FD-4310-9252-0FF65A11AC22"
+    }
+  ],
+  "name": "Coast",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

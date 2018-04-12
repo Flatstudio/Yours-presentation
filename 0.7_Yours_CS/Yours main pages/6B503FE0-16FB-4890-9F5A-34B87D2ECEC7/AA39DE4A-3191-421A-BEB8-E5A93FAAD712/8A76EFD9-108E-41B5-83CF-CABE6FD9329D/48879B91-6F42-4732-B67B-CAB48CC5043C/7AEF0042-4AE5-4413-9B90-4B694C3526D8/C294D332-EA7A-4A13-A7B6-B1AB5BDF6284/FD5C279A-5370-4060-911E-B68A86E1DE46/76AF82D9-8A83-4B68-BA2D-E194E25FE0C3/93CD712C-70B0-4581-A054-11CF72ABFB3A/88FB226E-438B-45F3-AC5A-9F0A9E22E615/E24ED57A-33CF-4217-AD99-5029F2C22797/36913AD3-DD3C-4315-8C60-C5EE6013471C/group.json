@@ -1,0 +1,104 @@
+{
+  "_class": "group",
+  "do_objectID": "36913AD3-DD3C-4315-8C60-C5EE6013471C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 569,
+    "width": 847,
+    "x": 0,
+    "y": 401
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "399F228A-463F-4B79-93F8-61F49A16EAEA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06167499-6458-4AB4-8E28-56836C17930A"
+    },
+    {
+      "class": "group",
+      "id": "50BE876C-7E79-4470-9DB4-88FA3B891BC5"
+    },
+    {
+      "class": "text",
+      "id": "8855C34C-6C45-4A1A-8D85-844C821FED58"
+    },
+    {
+      "class": "text",
+      "id": "FB5BDDE7-ABE4-412C-9A13-C5997DFFC014"
+    },
+    {
+      "class": "group",
+      "id": "0610BF3C-9619-403A-9AC8-CF91B012C920"
+    },
+    {
+      "class": "group",
+      "id": "74FE1D31-FFD1-4664-AEEA-7D7D78ABB30A"
+    },
+    {
+      "class": "group",
+      "id": "AB78852C-A6DD-49D7-8E1C-DC3BD5AEC7B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "199114C5-3A7E-42D0-A665-736ED5EC4BFB"
+    },
+    {
+      "class": "text",
+      "id": "F3D44051-DA76-4DAC-A442-2935EF469F14"
+    },
+    {
+      "class": "group",
+      "id": "45178B63-FCE8-4BBC-ABAD-D444ED62AAC3"
+    }
+  ],
+  "name": "comments",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.10000052452088,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.3023097826086957
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

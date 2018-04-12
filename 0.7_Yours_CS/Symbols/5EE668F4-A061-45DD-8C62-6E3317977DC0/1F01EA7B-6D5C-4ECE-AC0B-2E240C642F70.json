@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGSktYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIDxAaGxwlLDA4OTo7PEBERlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBGAA18QDzMgLSBUZXh0IGJsb2Nrc9MREgoTFhlXTlMua2V5c1pOUy5vYmplY3RzohQVgASABaIXGIAGgAiAEF8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1R0KHh8gISIjJCNaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHSAAIAHI0A4AAAAAAAAEAHSJicoKVokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjKCorXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdNIKLS4vXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAD4AJ0xESCjE0N6IyM4AKgAuiNTaADIANgA5fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAF5TRlByb1RleHQtQm9sZNImJz0+XxATTlNNdXRhYmxlRGljdGlvbmFyeaM9PytcTlNEaWN0aW9uYXJ50iYnQUJfEBBOU0ZvbnREZXNjcmlwdG9yokMrXxAQTlNGb250RGVzY3JpcHRvctImJz9Foj8r0iYnR0hfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiSStfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRTE1Ucm9vdIABAAgAEQAaACMALQAyADcATABSAFkAYgBpAHYAeAB6AHwAjgCVAJ0AqACrAK0ArwCyALQAtgC4AMsA7QD4AQMBFQE3AUkBSwFNAVYBWAFdAWgBcQGLAY8BogGrAbABzQHPAdEB2AHbAd0B3wHiAeQB5gHoAf4CFAIdAiwCMQJHAksCWAJdAnACcwKGAosCjgKTAqgCqwLAAtIC1QLaAAAAAAAAAgEAAAAAAAAATgAAAAAAAAAAAAAAAAAAAtw="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "1F01EA7B-6D5C-4ECE-AC0B-2E240C642F70",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 148,
+    "x": 300,
+    "y": 0
+  },
+  "glyphBounds": "{{1, 4}, {146, 16}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "3 - Text blocks",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "08FEE1C3-54E0-4345-B8AD-11A76F13EE66"
+  },
+  "textBehaviour": 0
+}

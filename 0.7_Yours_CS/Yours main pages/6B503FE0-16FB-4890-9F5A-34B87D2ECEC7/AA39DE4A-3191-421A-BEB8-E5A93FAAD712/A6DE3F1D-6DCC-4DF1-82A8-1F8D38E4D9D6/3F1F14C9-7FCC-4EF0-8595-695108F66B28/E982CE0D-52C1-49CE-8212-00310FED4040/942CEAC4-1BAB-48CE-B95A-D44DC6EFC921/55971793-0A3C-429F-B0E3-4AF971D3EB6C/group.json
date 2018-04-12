@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "do_objectID": "55971793-0A3C-429F-B0E3-4AF971D3EB6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "253EFB76-A990-4E35-A35D-3818AFA8FEB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D712A0D-C05D-473E-A343-10532976A7E3",
+    "height": 142,
+    "width": 228,
+    "x": 387,
+    "y": 299
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AB758659-2C68-4383-90D4-773845F0EF64"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2D35A331-027D-499C-B7DE-697B1D50A2F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8EE4400B-11BA-4889-A54B-C2F1786EF0CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DB28B725-3769-4610-905D-9AC05849CCCF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5A1D62E-B4B7-4A3A-9DA0-885FDBDA387D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7A00B34-7945-48B0-8E46-BF2E7EB23A06"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "95A21A38-29F2-427E-BDFF-8A10CCBAA8C3"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F9DC868-B67B-45E0-84E5-62B0528474B1",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

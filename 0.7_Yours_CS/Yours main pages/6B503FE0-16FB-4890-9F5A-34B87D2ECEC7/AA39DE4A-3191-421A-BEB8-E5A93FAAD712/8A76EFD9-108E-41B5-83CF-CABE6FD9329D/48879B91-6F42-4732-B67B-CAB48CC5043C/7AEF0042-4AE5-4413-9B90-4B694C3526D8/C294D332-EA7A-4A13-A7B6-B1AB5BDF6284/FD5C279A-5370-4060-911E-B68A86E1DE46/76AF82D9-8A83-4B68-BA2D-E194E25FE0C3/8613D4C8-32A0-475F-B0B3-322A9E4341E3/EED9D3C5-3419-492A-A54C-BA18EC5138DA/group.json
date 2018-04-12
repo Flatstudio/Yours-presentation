@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "EED9D3C5-3419-492A-A54C-BA18EC5138DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 605,
+    "width": 605,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D7A28711-770F-4A3C-AC48-5A5B34C6E77A"
+    },
+    {
+      "class": "group",
+      "id": "2FC45696-2FBC-4899-91AF-AE4EC5108653"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FE4C9FE2-CBCA-477E-9A25-B24DB5B10014"
+    },
+    {
+      "class": "group",
+      "id": "438991C3-97D6-4CDC-B290-6C910E2B7885"
+    }
+  ],
+  "name": "Portifolio / Image 6",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}

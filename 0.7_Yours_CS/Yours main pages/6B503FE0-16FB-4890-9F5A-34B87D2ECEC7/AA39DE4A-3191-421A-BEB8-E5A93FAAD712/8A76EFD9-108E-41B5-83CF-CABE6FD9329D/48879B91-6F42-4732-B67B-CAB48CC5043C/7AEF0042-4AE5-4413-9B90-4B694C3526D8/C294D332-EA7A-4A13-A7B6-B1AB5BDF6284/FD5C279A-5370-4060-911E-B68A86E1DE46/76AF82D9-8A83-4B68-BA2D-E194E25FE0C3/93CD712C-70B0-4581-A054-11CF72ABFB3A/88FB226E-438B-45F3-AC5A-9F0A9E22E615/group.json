@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "88FB226E-438B-45F3-AC5A-9F0A9E22E615",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 605,
+    "width": 605,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DF492581-A723-4B37-96E7-1CF66119ECDE"
+    },
+    {
+      "class": "group",
+      "id": "8C9F7596-856B-45C1-ADE0-D205B481A5B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43327DB1-25C8-4FD5-8399-3118F05D04F4"
+    },
+    {
+      "class": "group",
+      "id": "E24ED57A-33CF-4217-AD99-5029F2C22797"
+    }
+  ],
+  "name": "Portifolio / Image 7 Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}

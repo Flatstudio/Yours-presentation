@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "1946EB0A-8CFF-480C-A97A-D0EE95398D34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 121,
+    "width": 81,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DEC8426C-A1A9-41FF-84A1-B442F1803E9E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73690E8C-327C-4FCB-B86C-D66C6B8ACAE9"
+    },
+    {
+      "class": "text",
+      "id": "BAF2B505-076F-4089-BFEF-5E652C5A7740"
+    },
+    {
+      "class": "text",
+      "id": "51C8E134-DBB9-42F1-A73E-7106378CE6D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1668FAF2-2D3B-460C-B287-08FAF3CC5252"
+    }
+  ],
+  "name": "Vote",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 14.31585292344786,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

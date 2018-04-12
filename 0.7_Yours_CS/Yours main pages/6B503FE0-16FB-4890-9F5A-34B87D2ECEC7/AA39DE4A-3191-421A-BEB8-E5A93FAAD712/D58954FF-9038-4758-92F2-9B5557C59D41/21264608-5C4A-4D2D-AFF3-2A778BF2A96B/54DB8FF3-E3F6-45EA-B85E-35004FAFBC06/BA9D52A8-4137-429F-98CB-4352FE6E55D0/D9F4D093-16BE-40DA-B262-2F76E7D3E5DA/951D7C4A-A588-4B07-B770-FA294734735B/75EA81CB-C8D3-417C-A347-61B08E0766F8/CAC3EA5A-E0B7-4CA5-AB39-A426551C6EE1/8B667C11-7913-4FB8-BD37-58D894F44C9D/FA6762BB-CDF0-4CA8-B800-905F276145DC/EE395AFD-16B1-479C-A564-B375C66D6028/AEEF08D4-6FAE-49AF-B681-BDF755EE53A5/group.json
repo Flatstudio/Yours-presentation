@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "do_objectID": "AEEF08D4-6FAE-49AF-B681-BDF755EE53A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 7,
+    "width": 12,
+    "x": 0,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E89BB142-00F4-4AAE-AD5C-B72D388A1581"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6E589148-86F0-46CE-B230-715B4A1DEAA4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D53D1443-EC9D-47B7-ADCF-83D4BE588315"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E4B275E8-4BAB-49FB-BC07-AA1270489F80"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A429B47B-E327-425F-A2CB-F85916B7641C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FB9F46F9-C624-4E35-A55F-34F77036A5D9"
+    }
+  ],
+  "name": "Money",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.4850177288677409,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

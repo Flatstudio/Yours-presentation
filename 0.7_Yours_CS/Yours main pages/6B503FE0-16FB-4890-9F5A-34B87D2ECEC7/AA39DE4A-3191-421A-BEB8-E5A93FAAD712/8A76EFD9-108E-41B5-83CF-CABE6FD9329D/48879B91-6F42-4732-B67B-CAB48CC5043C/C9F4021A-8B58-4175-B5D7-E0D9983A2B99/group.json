@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "C9F4021A-8B58-4175-B5D7-E0D9983A2B99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36D4B3D4-53C0-4D06-AE78-582343CF7A27",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7F1C71F2-7984-4A69-A3AC-5C694E4B28FA",
+    "height": 235,
+    "width": 605,
+    "x": 645,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "62FE5950-8CF3-4098-9900-B27B53854FDB"
+    },
+    {
+      "class": "group",
+      "id": "E405E1D8-B119-4E4E-B2E5-5DF33883E8B2"
+    }
+  ],
+  "name": "3 - Text blocks/Right/Secondary + icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B8CC3A9-25C2-4ECD-9A0A-EA8DD4B24774",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

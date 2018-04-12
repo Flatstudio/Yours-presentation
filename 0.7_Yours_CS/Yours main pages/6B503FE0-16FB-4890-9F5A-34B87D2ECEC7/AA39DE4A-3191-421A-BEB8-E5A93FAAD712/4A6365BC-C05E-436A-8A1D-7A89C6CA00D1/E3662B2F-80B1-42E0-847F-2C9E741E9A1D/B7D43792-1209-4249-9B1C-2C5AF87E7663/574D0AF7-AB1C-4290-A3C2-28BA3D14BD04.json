@@ -1,0 +1,66 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "574D0AF7-AB1C-4290-A3C2-28BA3D14BD04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 2767.916666666667,
+    "width": 1050,
+    "x": 100,
+    "y": 100
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/bc16b13db5bb89130807b3194eef2d4d6dcddbb6",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Landing Money Buttons",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 2767.917,
+            "enabled": 1,
+            "modelID": "constraint_fc4098e1-79b1-41ee-8c19-0605c8db4208",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 1050
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d563a1bf-c049-4cfe-bccb-28c2126561bb",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
